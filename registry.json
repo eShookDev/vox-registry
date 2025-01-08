@@ -1,0 +1,17 @@
+[
+  {
+    "name": "button",
+    "version": "1.0.0",
+    "description": "Un componente button personalizzabile",
+    "files": ["button.tsx", "button.css", "types.ts"],
+    "dependencies": ["react", "react-dom"],
+    "devDependencies": ["@types/react"]
+  },
+  {
+    "name": "card",
+    "version": "1.0.0",
+    "description": "Un componente card flessibile",
+    "files": ["card.tsx", "card.css"],
+    "dependencies": ["react"]
+  }
+]
